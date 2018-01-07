@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "transfer", "..\transfer\transfer\transfer.csproj", "{5610803D-9554-4FA1-AB96-0428D8478362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP", "ConsoleApplication1\TCP.csproj", "{2614A75E-9317-43F4-A0E9-6794E3305498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5610803D-9554-4FA1-AB96-0428D8478362}.Debug|x86.ActiveCfg = Debug|x86
+		{5610803D-9554-4FA1-AB96-0428D8478362}.Debug|x86.Build.0 = Debug|x86
+		{5610803D-9554-4FA1-AB96-0428D8478362}.Release|x86.ActiveCfg = Release|x86
+		{5610803D-9554-4FA1-AB96-0428D8478362}.Release|x86.Build.0 = Release|x86
+		{2614A75E-9317-43F4-A0E9-6794E3305498}.Debug|x86.ActiveCfg = Debug|x86
+		{2614A75E-9317-43F4-A0E9-6794E3305498}.Debug|x86.Build.0 = Debug|x86
+		{2614A75E-9317-43F4-A0E9-6794E3305498}.Release|x86.ActiveCfg = Release|x86
+		{2614A75E-9317-43F4-A0E9-6794E3305498}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
